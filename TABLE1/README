@@ -1,0 +1,19 @@
+Porphyrinoids benchmark-set Abbrev. Ref.
+[1] Porphyrin H2PP [78,80]a)
+[2] Octaethylporphyrin H2OEP [79,81]b)
+[3] Magnesium octaethylporphyrin MgOEP [79,80,82]a)
+[4] Zinc octaethylporphyrin ZnOEP [79,80,83]a)
+[5] Tetraphenylporphyrin H2TPP [79,80,84]a)
+[6] Magnesium tetraphenylporphyrin MgTPP [79,80,85]a)
+[7] Zinc tetraphenylporphyrin ZnTPP [79,80,84]a)
+[8] Tetrakis(o-aminophenyl) porphyrin H2TAPP [79,80,86]a)
+[9] Zinc tetrakis(4-carboxyphenyl) porphyrin ZnTCPP [87]c)
+[10] Zinc [5,15-dipyridyl-10,20-bis (pentafluorophenyl) porphyrin F-ZnP [88]d)
+[11] Zinc [5,15-di(4-pyridylacetyl)-10,20-diphenyl] porphyrin DA-ZnP [88]d)
+[12] Octabromotetraphenyl porphyrin H2OBP [89]e)
+a)Toluene; b)Benzene; c)THF; d)DMF; e)CH2Cl2.
+
+Reference
+[1] K. Batra et al., Adv. Theory Simul., 3, 1900192 (2020)
+  https://doi.org/10.1002/adts.201900192
+  https://onlinelibrary.wiley.com/doi/full/10.1002/adts.201900192
